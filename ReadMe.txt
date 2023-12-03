@@ -1,0 +1,1 @@
+YO! Make sure in the commandline that you are currently in the folder containing the PDF's to Merge and to run the script use "python "<path to the script.py file>"
